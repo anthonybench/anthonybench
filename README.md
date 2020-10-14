@@ -1,16 +1,42 @@
-### Hi there 👋
+# Welcome! ようこそ！ 👋
 
-<!--
-**anthonybench/anthonybench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm Isaac, thanks for visiting!
+### Full stack developer, mechanical engineer, and maker of dope pizzas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my [`Portfolio`](https://github.com/anthonybench/MyPortfolio)
+- 🌱 I’m currently learning *`ASP.NET Core`*
+- 🤔 I’m looking for help with my [`ASCII art repo`](https://github.com/anthonybench/ASCII_art)
+- ⚡ Fun fact: I'm an empassioned woodworker, and dedicated skateboarder!
+
+<br />
+
+## Connect with me:
+[<img align="left" alt="LinkedIn" src="img/LI-In-Bug.png" height="40" />](https://www.linkedin.com/in/anthonybench/)
+
+<br /><br />
+
+## Languages and Tools:
+<img align="left" alt="ASP.NET" src="img/dotnet.png" width="50"/> 
+<img align="left" alt="SQL Server" src="img/sqlServer.png" width="90" /> 
+<img align="left" alt="Arduino" src="img/arduino_logo.png" width="70" /> 
+<img align="left" alt="SQL" src="img/sql.png" width="50" /> 
+<img align="left" alt="Node + Express" src="img/node+express.png" width="80" /> 
+<img align="left" alt="React" src="img/react.png" width="50" /> 
+<img align="left" alt="SolidWorks" src="img/solidworks_logo.png" width="80" /> 
+<img align="left" alt="Entity Framework Core" src="img/efcore.png" width="80" /> 
+<img align="left" alt="Web Broswer Stack" src="img/html-js-css.png" width="59" /> 
+<img align="left" alt="C Sharp" src="img/Csharp_logo.png" width="50" /> 
+<img align="left" alt="C plusplus" src="img/cpp_logo.png" width="50" /> 
+<img align="left" alt="Particle Photon" src="img/photon_logo.png" width="60" /> 
+<img align="left" alt="BootStrap" src="img/bootstrap.png" width="80" /> 
+<img align="left" alt="Python" src="img/python_logo.png" width="50" /> 
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+<img align="left" alt="" src="" width="" />
+
