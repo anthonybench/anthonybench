@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my [`Portfolio`](https://github.com/anthonybench/MyPortfolio)
 - 🌱 I’m currently learning *`ASP.NET Core`*
 - 🤔 I’m looking for help with my [`ASCII art repo`](https://github.com/anthonybench/ASCII_art)
-- ⚡ Fun fact: I'm an empassioned woodworker, and dedicated skateboarder!
+- ⚡ Fun fact: I'm an impassioned woodworker, and dedicated skateboarder!
 
 
 
