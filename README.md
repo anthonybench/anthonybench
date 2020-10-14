@@ -17,17 +17,20 @@
 <br /><br />
 
 ## Languages and Tools:
-<img align="left" alt="ASP.NET" src="img/dotnet.png" width="50"/> 
-<img align="left" alt="SQL Server" src="img/sqlServer.png" width="90" /> 
-<img align="left" alt="Arduino" src="img/arduino_logo.png" width="70" /> 
-<img align="left" alt="SQL" src="img/sql.png" width="50" /> 
-<img align="left" alt="Node + Express" src="img/node+express.png" width="80" /> 
-<img align="left" alt="React" src="img/react.png" width="50" /> 
-<img align="left" alt="SolidWorks" src="img/solidworks_logo.png" width="80" /> 
-<img align="left" alt="Entity Framework Core" src="img/efcore.png" width="80" /> 
-<img align="left" alt="Web Broswer Stack" src="img/html-js-css.png" width="59" /> 
-<img align="left" alt="C Sharp" src="img/Csharp_logo.png" width="50" /> 
-<img align="left" alt="C plusplus" src="img/cpp_logo.png" width="50" /> 
-<img align="left" alt="Particle Photon" src="img/photon_logo.png" width="60" /> 
-<img align="left" alt="BootStrap" src="img/bootstrap.png" width="80" /> 
-<img align="left" alt="Python" src="img/python_logo.png" width="50" /> 
+<img align="left" alt="ASP.NET" src="img/dotnet.png" width="50"/>
+<img align="left" alt="SQL Server" src="img/sqlServer.png" width="90" />
+<img align="left" alt="Arduino" src="img/arduino_logo.png" width="70" />
+<img align="left" alt="SQL" src="img/sql.png" width="50" />
+<img align="left" alt="Node + Express" src="img/node+express.png" width="80" />
+<img align="left" alt="React" src="img/react.png" width="50" />
+<img align="left" alt="SolidWorks" src="img/solidworks_logo.png" width="80" />
+
+<br /><br />
+
+<img align="left" alt="Entity Framework Core" src="img/efcore.png" width="80" />
+<img align="left" alt="Web Broswer Stack" src="img/html-js-css.png" width="59" />
+<img align="left" alt="C Sharp" src="img/Csharp_logo.png" width="50" />
+<img align="left" alt="C plusplus" src="img/cpp_logo.png" width="50" />
+<img align="left" alt="Particle Photon" src="img/photon_logo.png" width="60" />
+<img align="left" alt="BootStrap" src="img/bootstrap.png" width="80" />
+<img align="left" alt="Python" src="img/python_logo.png" width="50" />
