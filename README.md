@@ -31,12 +31,3 @@
 <img align="left" alt="Particle Photon" src="img/photon_logo.png" width="60" /> 
 <img align="left" alt="BootStrap" src="img/bootstrap.png" width="80" /> 
 <img align="left" alt="Python" src="img/python_logo.png" width="50" /> 
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-<img align="left" alt="" src="" width="" />
-
