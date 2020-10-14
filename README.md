@@ -11,6 +11,11 @@
 
 <br />
 
+<img alt="isaac" src="img/isaac_reflection_dark.png" width="200" />
+<img align="right" alt="Sleepy Otter" src="img/basic-otter.png" width="400" />
+
+<br />
+
 ## Connect with me:
 [<img align="left" alt="LinkedIn" src="img/LI-In-Bug.png" height="40" />](https://www.linkedin.com/in/anthonybench/)
 
