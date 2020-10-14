@@ -11,8 +11,8 @@
 
 <br />
 
-<img alt="isaac" src="img/isaac_reflection_dark.png" width="200" />
 <img align="right" alt="Sleepy Otter" src="img/basic-otter.png" width="400" />
+<img alt="isaac" src="img/isaac_reflection_dark.png" width="200" />
 
 <br />
 
