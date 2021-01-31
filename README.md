@@ -19,12 +19,11 @@ Before anything else, I strive to be a professional kid.
 <br />
 
 ## I want to dive into...
-- Voice Development 🎤
+- Voice Applications 🎤
 - Game Development 🎮
 - Crocheting 🧶
 
 <br />
 
-### **Connect with me!**
+### ***Connect with me!***
 <img alt="example image tag" src="img/linkedin.png" width="50" />
-
