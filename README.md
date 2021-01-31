@@ -26,4 +26,4 @@ Before anything else, I strive to be a professional kid.
 <br />
 
 ### ***Connect with me!***
-<img alt="example image tag" src="img/linkedin.png" width="50" />
+[<img alt="example image tag" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
