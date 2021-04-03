@@ -1,6 +1,6 @@
 # Welcome! ようこそ！ 👋
 
-<img alt="GitHub Profile Banner" src="img/github-profile.png" width="700" />
+<img alt="GitHub Profile Banner" src="img/banner.png" width="700" />
 
 
 <br />
