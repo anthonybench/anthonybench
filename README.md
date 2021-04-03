@@ -1,6 +1,6 @@
 # Welcome! ようこそ！ 👋
 
-<img alt="GitHub Profile Banner" src="img/banner.png" width="700" />
+<img alt="GitHub Profile Banner" src="img/banner.png" width="800" />
 
 ## Thanks for stopping by! 👾
 I'm a passionate finish carpenter who loves kayaking, skateboarding, and rock climbing.\
