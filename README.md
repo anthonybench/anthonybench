@@ -2,9 +2,6 @@
 
 <img alt="GitHub Profile Banner" src="img/banner.png" width="700" />
 
-
-<br />
-
 ## Thanks for stopping by! 👾
 I'm a passionate finish carpenter who loves kayaking, skateboarding, and rock climbing.\
 Before anything else, I strive to be a professional kid.
