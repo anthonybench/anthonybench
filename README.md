@@ -14,5 +14,14 @@ Before anything else, I strive to be a professional kid.
 
 <br />
 
+Testing the **keyboard** ta: \
+<kbd>ESC</kbd>
+
+Tesing the **details** and **summary** tags: \
+<details>
+<summary>Check me out!</summary>
+Oh my goodness look at all this text! Oh my goodness look at all this text! Oh my goodness look at all this text! Oh my goodness look at all this text! Oh my goodness look at all this text! Oh my goodness look at all this text! Oh my goodness look at all this text!
+</details>
+
 ### ***Connect with me!***
 [<img alt="example image tag" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
