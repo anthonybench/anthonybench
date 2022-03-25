@@ -3,8 +3,10 @@
 <img alt="GitHub Profile Banner" src="img/banner.png" width="850" />
 
 ## Thanks for stopping by! 👾
-I'm a passionate finish carpenter who loves kayaking, skateboarding, and rock climbing.\
-Before anything else, I strive to be a professional kid.
+Isaac Yep / Sleepy Boy
+
+I'm a finish carpenter who loves kayaking, skateboarding, and rock climbing.\
+Above all, a life long engineer and professional kid.
 
 | Current Interests | Want to dive into |
 |----|----|
