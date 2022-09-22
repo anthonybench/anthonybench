@@ -14,14 +14,10 @@ Above all, a life long engineer and professional kid.
 | Web Development 🌎 | Game Development 🎮 |
 | Documentation Systems 📜 | Crocheting 🧶 |
 
-<br />
-
 ### ***Connect with me!***
 [<img alt="DuoLingo" src="img/duolingo.png" width="50" />](https://www.duolingo.com/profile/TheSleepyBoy)
 ‎ ‎ ‎ ‎ ‎
 [<img alt="LinkedIn" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
-
-<br />
 
 ### ***More stuffs!***
 [<img alt="PyPi" src="img/pypi.png" width="50" />](https://pypi.org/user/sleepyboy/)
