@@ -17,4 +17,15 @@ Above all, a life long engineer and professional kid.
 <br />
 
 ### ***Connect with me!***
-[<img alt="example image tag" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
+[<img alt="DuoLingo" src="img/duolingo.png" width="50" />](https://www.duolingo.com/profile/TheSleepyBoy)
+‎ ‎ ‎ ‎ ‎
+[<img alt="LinkedIn" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
+
+<br />
+
+### ***More stuffs!***
+[<img alt="PyPi" src="img/pypi.png" width="50" />](https://pypi.org/user/sleepyboy/)
+‎ ‎ ‎ ‎ ‎
+[<img alt="DockerHub" src="img/docker.png" width="50" />](https://hub.docker.com/u/sleepyboy)
+‎ ‎ ‎ ‎ ‎
+[<img alt="MonkeyType" src="img/monkeytype.png" width="50" />](https://monkeytype.com/profile/zJyZluX5ZvNVXl4hUw3ZndJaaiw2)
