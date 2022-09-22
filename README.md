@@ -3,8 +3,6 @@
 <img alt="GitHub Profile Banner" src="img/banner.png" width="850" />
 
 ## Thanks for stopping by! 👾
-Isaac Yep / Sleepy Boy
-
 I'm a finish carpenter who loves kayaking, skateboarding, and rock climbing.\
 Above all, a life long engineer and professional kid.
 
@@ -13,6 +11,8 @@ Above all, a life long engineer and professional kid.
 | Automation ⚙ | Voice Applications 🎤 |
 | Web Development 🌎 | Game Development 🎮 |
 | Documentation Systems 📜 | Crocheting 🧶 |
+
+<br />
 
 ### ***Connect with me!***
 [<img alt="DuoLingo" src="img/duolingo.png" width="50" />](https://www.duolingo.com/profile/TheSleepyBoy)
