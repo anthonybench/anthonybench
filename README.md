@@ -8,8 +8,8 @@ Life long engineer, professional kid.
 
 | Current Interests | Want to dive into |
 |:---|---:|
-| 🤖 Automation | Voice Applications 🎤 |
-| 🗄️ Data Architecture | Game Development 🎮 |
+| 🤖 Automation | Game Development 🎮 |
+| 🗄️ Data Architecture | Voice Applications 🎤 |
 | 🌎 Web Development | Crocheting 🧶 |
 
 <br />
