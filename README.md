@@ -7,10 +7,10 @@ I'm a finish carpenter who loves kayaking, skateboarding, and rock climbing.\
 Life long engineer, professional kid.
 
 | Current Interests | Want to dive into |
-|----|----|
-| Automation ⚙ | Voice Applications 🎤 |
-| Data Architecture 📜 | Game Development 🎮 |
-| Web Development 🌎 | Crocheting 🧶 |
+|:---|---:|
+| 🤖 Automation | Voice Applications 🎤 |
+| 🗄️ Data Architecture | Game Development 🎮 |
+| 🌎 Web Development | Crocheting 🧶 |
 
 <br />
 
