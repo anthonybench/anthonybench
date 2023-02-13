@@ -4,13 +4,13 @@
 
 ## Thanks for stopping by! 👾
 I'm a finish carpenter who loves kayaking, skateboarding, and rock climbing.\
-Above all, a life long engineer and professional kid.
+Life long engineer, professional kid.
 
 | Current Interests | Want to dive into |
 |----|----|
 | Automation ⚙ | Voice Applications 🎤 |
-| Web Development 🌎 | Game Development 🎮 |
-| Documentation Systems 📜 | Crocheting 🧶 |
+| Data Architecture 📜 | Game Development 🎮 |
+| Web Development 🌎 | Crocheting 🧶 |
 
 <br />
 
