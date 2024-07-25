@@ -23,7 +23,7 @@ Life long engineer, professional kid.
 [<img alt="My DuoLingo" src="img/duolingo.png" width="50" />](https://www.duolingo.com/profile/TheSleepyBoy)
 ‎ ‎ ‎ ‎ ‎
 [<img alt="My LinkedIn" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/anthonybench/)
-[<img alt="My Personal Blog" src="img/hat.ico" width="50" />](https://sleepyblog.org/about) 👈 My Blog & Resume
+[<img alt="My Personal Blog" src="img/hat.ico" width="50" />](https://sleepyblog.org/about) 👈 *My Blog & Resume*
 
 ### ***More stuffs!***
 [<img alt="PyPi" src="img/pypi.png" width="50" />](https://pypi.org/user/sleepyboy/)
