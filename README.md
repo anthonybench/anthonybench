@@ -3,7 +3,7 @@
 <img alt="GitHub Profile Banner" src="img/banner.png" width="850" />
 
 ## Thanks for stopping by! 👾
-Hi, I&apos;m Isaac 👋 \
+Hi, I'm Isaac 👋 \
 I live at the intersection of dev-ops & data. \
 I deeply admire simplicity. \
 An Alaskan who loves the pacific northwest. \
@@ -13,7 +13,7 @@ Life long engineer, professional kid.
 
 | Current Interests | Want to dive into |
 |:---|---:|
-| 🤖 Automation | Game Development 🎮 |
+| 🤖 Dev Ops | Game Development 🎮 |
 | 🗄️ Data Architecture | Voice Applications 🎤 |
 | 🌎 Web Development | Crocheting 🧶 |
 
@@ -31,5 +31,3 @@ Life long engineer, professional kid.
 [<img alt="DockerHub" src="img/docker.png" width="50" />](https://hub.docker.com/u/sleepyboy)
 ‎ ‎ ‎ ‎ ‎
 [<img alt="MonkeyType" src="img/monkeytype.png" width="50" />](https://monkeytype.com/profile/zJyZluX5ZvNVXl4hUw3ZndJaaiw2)
-
-<img alt="" src="img/dog-smile-gif.gif" width="50" />
