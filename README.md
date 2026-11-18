@@ -30,4 +30,6 @@ Life long engineer, professional kid.
 ‎ ‎ ‎ ‎ ‎
 [<img alt="DockerHub" src="img/docker.png" width="50" />](https://hub.docker.com/u/sleepyboy)
 ‎ ‎ ‎ ‎ ‎
+[<img alt="npm" src="img/npm.svg" width="50" />](https://www.npmjs.com/~sleepyboy)
+‎ ‎ ‎ ‎ ‎
 [<img alt="MonkeyType" src="img/monkeytype.png" width="50" />](https://monkeytype.com/profile/zJyZluX5ZvNVXl4hUw3ZndJaaiw2)
